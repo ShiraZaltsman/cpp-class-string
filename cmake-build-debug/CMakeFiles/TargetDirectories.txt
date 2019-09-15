@@ -1,0 +1,3 @@
+/home/shira/Desktop/cpp-class-string-ShiraZaltsman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/shira/Desktop/cpp-class-string-ShiraZaltsman/cmake-build-debug/CMakeFiles/cpp_class_string_ShiraZaltsman.dir
+/home/shira/Desktop/cpp-class-string-ShiraZaltsman/cmake-build-debug/CMakeFiles/edit_cache.dir

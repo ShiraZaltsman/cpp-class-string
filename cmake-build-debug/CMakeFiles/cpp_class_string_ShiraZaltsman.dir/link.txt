@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cpp_class_string_ShiraZaltsman.dir/main.cpp.o CMakeFiles/cpp_class_string_ShiraZaltsman.dir/my_string.cpp.o CMakeFiles/cpp_class_string_ShiraZaltsman.dir/test.cpp.o  -o cpp_class_string_ShiraZaltsman 

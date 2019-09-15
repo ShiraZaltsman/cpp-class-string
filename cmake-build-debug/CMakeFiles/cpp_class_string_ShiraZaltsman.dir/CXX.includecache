@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shira/Desktop/cpp-class-string-ShiraZaltsman/main.cpp
+iostream
+-
+my_string.h
+/home/shira/Desktop/cpp-class-string-ShiraZaltsman/my_string.h
+test.h
+/home/shira/Desktop/cpp-class-string-ShiraZaltsman/test.h
+
+/home/shira/Desktop/cpp-class-string-ShiraZaltsman/my_string.h
+iostream
+-
+
+/home/shira/Desktop/cpp-class-string-ShiraZaltsman/test.cpp
+test.h
+/home/shira/Desktop/cpp-class-string-ShiraZaltsman/test.h
+
+/home/shira/Desktop/cpp-class-string-ShiraZaltsman/test.h
+my_string.h
+/home/shira/Desktop/cpp-class-string-ShiraZaltsman/my_string.h
+
