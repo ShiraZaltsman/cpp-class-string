@@ -4,7 +4,7 @@
 int main() {
 test_creat();
 test_compere();
-//test_manipulation();
+test_manipulation();
 
 
     return 0;
